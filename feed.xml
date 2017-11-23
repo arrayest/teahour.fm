@@ -31,7 +31,9 @@
       <itunes:author>terry</itunes:author>
       <itunes:summary type="html">&lt;p&gt;&lt;strong&gt;本期由&lt;a href="https://www.cryptape.com"&gt;Cryptape&lt;/a&gt; 赞助， &lt;a href="https://www.cryptape.com"&gt;Cryptape&lt;/a&gt; 是一家专注于区块链底层技术的公司。 他们从零开发的区块链底层 &lt;a href="https://github.com/cryptape/cita"&gt;CITA&lt;/a&gt; 现已全面开源。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;本期节目我们邀请到了 &lt;a href="https://pingcap.com/"&gt;PingCAP&lt;/a&gt; CTO &lt;a href="https://twitter.com/c4pt0r"&gt;黄东旭&lt;/a&gt;, 和他一起探讨一下关于数据库以及 NewSQL 的话题。 当然我们还好好聊了聊 Go 和 Rust，干活十足，不容错过！&lt;/p&gt;
+&lt;p&gt;本期节目我们邀请到了 &lt;a href="https://pingcap.com/"&gt;PingCAP&lt;/a&gt; CTO &lt;a href="https://twitter.com/c4pt0r"&gt;黄东旭&lt;/a&gt;, 和他一起探讨一下关于数据库以及 NewSQL 的话题。 当然我们还好好聊了聊 Go 和 Rust，干货十足，不容错过！&lt;/p&gt;
+
+&lt;p&gt;我们的邮箱是：hi@teahour.fm, 欢迎你给我们写邮件。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
@@ -39,14 +41,13 @@
     &lt;li&gt;&lt;a href="https://github.com/CodisLabs/codis"&gt;Codis&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://hbase.apache.org/"&gt;Apache HBase&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://github.com/pingcap/tidb"&gt;TiDB&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://github.com/pingcap/tikv"&gt;Tikv&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://research.google.com/archive/spanner.html"&gt;Spanner&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://research.google.com/pubs/pub41344.html"&gt;F1: A Distributed...&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+  ...&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/new_logo.png"/>
       <description type="html">&lt;p&gt;&lt;strong&gt;本期由&lt;a href="https://www.cryptape.com"&gt;Cryptape&lt;/a&gt; 赞助， &lt;a href="https://www.cryptape.com"&gt;Cryptape&lt;/a&gt; 是一家专注于区块链底层技术的公司。 他们从零开发的区块链底层 &lt;a href="https://github.com/cryptape/cita"&gt;CITA&lt;/a&gt; 现已全面开源。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;本期节目我们邀请到了 &lt;a href="https://pingcap.com/"&gt;PingCAP&lt;/a&gt; CTO &lt;a href="https://twitter.com/c4pt0r"&gt;黄东旭&lt;/a&gt;, 和他一起探讨一下关于数据库以及 NewSQL 的话题。 当然我们还好好聊了聊 Go 和 Rust，干活十足，不容错过！&lt;/p&gt;
+&lt;p&gt;本期节目我们邀请到了 &lt;a href="https://pingcap.com/"&gt;PingCAP&lt;/a&gt; CTO &lt;a href="https://twitter.com/c4pt0r"&gt;黄东旭&lt;/a&gt;, 和他一起探讨一下关于数据库以及 NewSQL 的话题。 当然我们还好好聊了聊 Go 和 Rust，干货十足，不容错过！&lt;/p&gt;
+
+&lt;p&gt;我们的邮箱是：hi@teahour.fm, 欢迎你给我们写邮件。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
@@ -81,7 +82,7 @@
       <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_90.mp3</guid>
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0800</pubDate>
       <itunes:duration>10781</itunes:duration>
-      <itunes:keywords>rust, go, databse</itunes:keywords>
+      <itunes:keywords>rust, go, database</itunes:keywords>
       <authors>
         <author>
           <name>Terry Tai</name>
