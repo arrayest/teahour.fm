@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Wed, 22 Nov 2017 00:00:00 +0800</updated>
-    <lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0800</lastBuildDate>
-    <pubDate>Wed, 22 Nov 2017 00:00:00 +0800</pubDate>
+    <updated>Tue, 12 Dec 2017 09:00:00 +0800</updated>
+    <lastBuildDate>Tue, 12 Dec 2017 09:00:00 +0800</lastBuildDate>
+    <pubDate>Tue, 12 Dec 2017 09:00:00 +0800</pubDate>
     <description>Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,74 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#91 Why VSCode is better than Atom?</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;&lt;strong&gt;本期节目由
+&lt;a href="https://www.cryptape.com"&gt;Cryptape&lt;/a&gt; 赞助，Cryptape 是一家专注于区块链底层技术开发的公司，他们的产品 &lt;a href="https://github.com/cryptape/cita"&gt;CITA&lt;/a&gt; 完全开源并且由 Rust 编写。他们正在招人，如果你对区块链技术有兴趣，或者是 Rust 或 C++ hacker, 欢迎你给他们投递简历, 简历请发到 hi@teahour.fm, 我会帮你做转发。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期节目邀请到了 &lt;a href="https://twitter.com/njukidreborn"&gt;Peng Lyu&lt;/a&gt;, 他是微软 VSCode Team 的一线开发人员。为什么 VScode 比 Atom 快这么多？ 让他给我们娓娓道来。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;&lt;strong&gt;本期节目由
+&lt;a href="https://www.cryptape.com"&gt;Cryptape&lt;/a&gt; 赞助，Cryptape 是一家专注于区块链底层技术开发的公司，他们的产品 &lt;a href="https://github.com/cryptape/cita"&gt;CITA&lt;/a&gt; 完全开源并且由 Rust 编写。他们正在招人，如果你对区块链技术有兴趣，或者是 Rust 或 C++ hacker, 欢迎你给他们投递简历, 简历请发到 hi@teahour.fm, 我会帮你做转发。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期节目邀请到了 &lt;a href="https://twitter.com/njukidreborn"&gt;Peng Lyu&lt;/a&gt;, 他是微软 VSCode Team 的一线开发人员。为什么 VScode 比 Atom 快这么多？ 让他给我们娓娓道来。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://devchat.tv/ruby-rogues"&gt;Ruby Rogues&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://msdn.microsoft.com"&gt;MSDN&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://microsoft.github.io/monaco-editor/"&gt;Monaco Editor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Erich_Gamma"&gt;Erich Gamma&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Design_Patterns"&gt;Gang of Four (Design Patterns) &lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/clion/"&gt;CLion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.visualstudio.com/zh-hans/vs/visual-studio-mac/"&gt; Visual Studio for Mac&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.xamarin.com/"&gt;Xamarin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://hyper.is/"&gt;Hyper&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://docs.microsoft.com/en-us/windows/wsl/about"&gt;Windows Subsystem for Linux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://brackets.io/"&gt;Brackets&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://macromates.com/"&gt;Textmate&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://electronjs.org/"&gt;Electron&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://atom.io/"&gt;Atom&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ctags.sourceforge.net/"&gt;Ctags&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://news.ycombinator.com/item?id=11244103"&gt;A Brief Glance at How Various Text Editors Manage Their Textual Data&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://electronjs.org/"&gt;Electron&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Piece_table"&gt;Piece Table&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://langserver.org/"&gt;LSP&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://panic.com/transmit/"&gt;Transmit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://codesandbox.io/"&gt;Codesandbox&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Anders_Hejlsberg"&gt;Anders Hejlsberg&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://about.sourcegraph.com/"&gt;Sourcegraph&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://nuclide.io/"&gt;Nuclide&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2017/12/12/why-vscode-is-better-than-atom.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_91.mp3" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_91.mp3</guid>
+      <pubDate>Tue, 12 Dec 2017 09:00:00 +0800</pubDate>
+      <itunes:duration>8338</itunes:duration>
+      <itunes:keywords>vscode, atom, editor, frontend</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Peng Lyu</name>
+          <avatar>http://teahour.fm/images/lvpeng.jpg</avatar>
+        </author>
+        <author>
+          <name>Howard</name>
+          <avatar>http://teahour.fm/images/howard.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#90 和 PingCAP CTO 畅谈数据库和编程语言</title>
       <itunes:author>terry</itunes:author>
